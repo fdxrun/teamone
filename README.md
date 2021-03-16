@@ -11,3 +11,6 @@ Submission test Git Management Version of Projects
 * Step #7: Done.
 
 Silahkan untuk anggota tim melakukan tahapan diatas. Untuk selanjutnya kita mengerjakan project berikutnya.
+
+### Collaboration Teamone
+* Akun Eljitech (Asep Septiadi)
