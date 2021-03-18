@@ -14,3 +14,4 @@ Silahkan untuk anggota tim melakukan tahapan diatas. Untuk selanjutnya kita meng
 
 ### Collaboration Teamone
 * Akun <a href="https://github.com/eljitech/">eljitech</a>
+* Akun <a href="https://github.com/terminalipo/">terminalipo</a>
