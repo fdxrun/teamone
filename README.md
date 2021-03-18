@@ -16,3 +16,6 @@ Silahkan untuk anggota tim melakukan tahapan diatas. Untuk selanjutnya kita meng
 * Akun <a href="https://github.com/fdxrun/">fdxrun</a> As Chairman
 * Akun <a href="https://github.com/eljitech/">eljitech</a> As Soldier 1 (Vice)
 * Akun <a href="https://github.com/terminalipo/">terminalipo</a> As Soldier 2 (Member)
+
+### Akses Ke Google Cloud
+https://console.cloud.google.com/cloud-resource-manager?organizationId=0&orgonly=true&supportedpurview=project,organizationId,folder&cloudshell=false (Login dengan akun gmail)
