@@ -13,5 +13,6 @@ Submission test Git Management Version of Projects
 Silahkan untuk anggota tim melakukan tahapan diatas. Untuk selanjutnya kita mengerjakan project berikutnya.
 
 ### Collaboration Teamone
-* Akun <a href="https://github.com/eljitech/">eljitech</a>
-* Akun <a href="https://github.com/terminalipo/">terminalipo</a>
+* Akun <a href="https://github.com/fdxrun/">fdxrun</a> As Chairman
+* Akun <a href="https://github.com/eljitech/">eljitech</a> As Soldier 1 (Vice)
+* Akun <a href="https://github.com/terminalipo/">terminalipo</a> As Soldier 2 (Member)
