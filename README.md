@@ -18,4 +18,4 @@ Silahkan untuk anggota tim melakukan tahapan diatas. Untuk selanjutnya kita meng
 * Akun <a href="https://github.com/terminalipo/">terminalipo</a> As Soldier 2 (Member)
 
 ### Akses Ke Google Cloud
-https://console.cloud.google.com/cloud-resource-manager?organizationId=0&orgonly=true&supportedpurview=project,organizationId,folder&cloudshell=false (Login dengan akun gmail)
+* https://console.cloud.google.com/cloud-resource-manager?organizationId=0&orgonly=true&supportedpurview=project,organizationId,folder&cloudshell=false <b>(Login dengan akun gmail)</b>
