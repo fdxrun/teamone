@@ -13,9 +13,9 @@ Submission test Git Management Version of Projects
 Silahkan untuk anggota tim melakukan tahapan diatas. Untuk selanjutnya kita mengerjakan project berikutnya.
 
 ### Collaboration Teamone
-* Akun <a href="https://github.com/fdxrun/">fdxrun</a> As Chairman
-* Akun <a href="https://github.com/eljitech/">eljitech</a> As Soldier 1 (Vice)
-* Akun <a href="https://github.com/terminalipo/">terminalipo</a> As Soldier 2 (Member)
+* Akun <a href="https://github.com/fdxrun/">fdxrun</a> As <b>Chairman</b>
+* Akun <a href="https://github.com/eljitech/">eljitech</a> As <b>Soldier 1</b> (Vice)
+* Akun <a href="https://github.com/terminalipo/">terminalipo</a> As <b>Soldier 2</b> (Member)
 
 ### Akses Ke Google Cloud
 * https://console.cloud.google.com/cloud-resource-manager?organizationId=0&orgonly=true&supportedpurview=project,organizationId,folder&cloudshell=false <b>(Login dengan akun gmail)</b>
