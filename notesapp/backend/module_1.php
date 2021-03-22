@@ -1,2 +1,0 @@
-## Tugas Job Desk
-* Ketua
